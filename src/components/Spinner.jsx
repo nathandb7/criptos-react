@@ -2,9 +2,9 @@ import '../styles/Spinner.css'
 
 const Spinner = () => {
     return (
-        <div className="spinner">
-            <div className="double-bounce1"></div>
-            <div className="double-bounce2"></div>
+        <div class="spinner">
+            <div class="cube1"></div>
+            <div class="cube2"></div>
         </div>
     )
 }
